@@ -1,0 +1,8 @@
+com\test\service\UserService.class
+com\test\config\AppConfig.class
+com\test\domain\User.class
+com\test\config\AppInitializer.class
+com\test\config\DbConfig.class
+com\test\repo\UserRepo.class
+com\test\config\DbConfig$1.class
+com\test\controller\UserController.class
